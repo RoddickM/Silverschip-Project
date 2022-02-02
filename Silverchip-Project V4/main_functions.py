@@ -28,7 +28,7 @@ def convert_currency(currency_type, currency_from_gbp, original_gbp):
     return converted_money, currency
 
 
-# a clas containing all the colours used in the program
+# a class containing all the colours used in the program
 class Colors:
     HEADER = '\033[95m'
     BLUE = '\033[94m'
