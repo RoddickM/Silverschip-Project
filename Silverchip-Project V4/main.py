@@ -85,7 +85,7 @@ while True:
         # asks the user whether they want to continue
         continue_program = input("\nDo you want to convert another transaction?(Y/N): ")
         if continue_program == "Y" or continue_program == "y":
-            # does another interation of the transaction if user chooses this option
+            # does another iteration of the transaction if user chooses this option
             break
         elif continue_program == "N" or continue_program == "n":
             # exits the program if user inputs "n" or "N"
